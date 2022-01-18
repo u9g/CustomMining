@@ -1,0 +1,7 @@
+name: CustomMining
+version: '${version}'
+main: com.github.u9g.custommining.Main
+api-version: 1.18
+depend:
+  - ProtocolLib
+  - WorldGuard

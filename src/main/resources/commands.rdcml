@@ -1,0 +1,11 @@
+givepick float:speed int:fracture_level int:veinminer {
+    hook givepick
+    permission admin.givepick
+    user player
+}
+
+fly {
+    hook fly
+    permission admin.fly
+    user player
+}
